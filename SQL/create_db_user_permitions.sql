@@ -1,0 +1,3 @@
+CREATE DATABASE study_department ENCODING 'UTF-8';
+CREATE USER manager WITH PASSWORD 'main';
+GRANT ALL PRIVILEGES ON DATABASE study_department TO manager;
