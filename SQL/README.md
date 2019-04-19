@@ -1,3 +1,5 @@
+Task:
+
 We have such tables in database (PostgreSQL):
 
 STUDENTS (STUDENT_ID, GROUP_ID, FIRST_NAME, LAST_NAME)
